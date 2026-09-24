@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>My Profile</h1>
+
+    <h2>Name: Rahul</h2>
+    <p>Age: 20</p>
+    <p>Course: Computer Science</p>
+    <p>College: ABC College</p>
+
+</body>
+</html>
